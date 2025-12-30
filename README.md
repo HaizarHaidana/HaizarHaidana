@@ -4,5 +4,10 @@
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 Info:
+# Perkenalkan saya Haizar Haidana Robi saya seorang web dev yang berkepentingan dalam frontend untuk backend saya belum terlalu bisa
+
+Untuk melihat project apa saja yang sudah saya buat anda bisa melihat dengan mengklik tombol di bawah
+<a href="
+
 
